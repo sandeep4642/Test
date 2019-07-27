@@ -1,2 +1,2 @@
-${BUILD_LOG_REGEX,regex="The Latest Tag is (.*)",showTruncatedLines=false}
+${GIT_BRANCH}
 
